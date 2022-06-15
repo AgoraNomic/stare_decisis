@@ -11,6 +11,7 @@ Rule 478/40 (Fora):
 >      public message, specifying the action and setting forth intent to
 >      perform that action by sending that message, doing both clearly
 >      and unambiguously.
+
 A condition ("If X is true, I do Y") is considered to set forth intent to perform the action
 if true and not otherwise, if and only if the condition specified is determinable, with
 reasonable effort by a "typical" Agoran, at the time the action is attempted.  In particular,
