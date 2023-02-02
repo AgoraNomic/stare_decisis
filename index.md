@@ -19,3 +19,35 @@ attempts at paradox ("If this sentence is false, I do Y") are just considered un
 do nothing, rather than actually creating a paradox.  (CFJ References)
 
 *added by G. 2022-06-15*
+
+# Tabled Actions
+
+Formerly: Dependent actions
+
+Intents to perform tabled actions must meet the following requirements (R1728/46):
+>     A person, acting as emself, CAN by announcement table an intent
+>     (syn.  "intend") to perform a tabled action, clearly,
+>     conspicuously, explicitly, and without obfuscation specifying the
+>     action, the method (including non-default parameter values), and,
+>     optionally, conditions.
+
+The governing precedent for "conspicuously" and "without obfuscation" is
+[CFJ3747](http://faculty.washington.edu/kerim/nomic/cases/3747) (written during a prior, but
+similar, wording of the relevant rules).
+
+CFJ3747 defines something as conspicuous if "a reasonable player would be able to tell
+after glancing at a message that it contains the dependent action" (para. 3 of
+the judgement). See the judgement for further details.
+
+CFJ3747 defines "without obfuscation" using a two part test:
+1. "[A] reasonable Agoran reading the message must, at a glance, be able to
+   understand the gist of the dependent action being announced".
+2. The details of the action must be "easy to understand" (with a guideline of 30-60
+   seconds maximum).
+
+CFJ3747 does not take an opinion on what it means for intents to be "clear", asserting that
+remaining precedent is clear.
+
+CFJ3747 does not take an opinon on "explicitly", as that language did not exist at the time.
+
+*added by Janet 2023-02-02*
