@@ -3,22 +3,38 @@ These are not legally binding on judges but provide guidance for how past decisi
 
 # Conditional actions
 
-With the exception of Conditional Votes (Rule 2127/11), performing a by-announcement action
-conditionally is not explicitly mentioned in the Rules.  It is governed by this clause in 
-Rule 478/40 (Fora):
+Prior to the adoption of P8925, performing a by-announcement action
+conditionally was not explicitly mentioned in the Rules.  It was governed by
+this clause in Rule 478/40 (Fora):
 >      Where the rules define an action that a person CAN perform "by
 >      announcement", that person performs that action by, in a single
 >      public message, specifying the action and setting forth intent to
 >      perform that action by sending that message, doing both clearly
 >      and unambiguously.
 
-A condition ("If X is true, I do Y") is considered to set forth intent to perform the action
-if true and not otherwise, if and only if the condition specified is determinable, with
-reasonable effort by a "typical" Agoran, at the time the action is attempted.  In particular,
-attempts at paradox ("If this sentence is false, I do Y") are just considered unclear and
-do nothing, rather than actually creating a paradox.  (CFJ References)
+Under the old common law standard, a condition ("If X is true, I do Y") was
+considered to set forth intent to perform the action if true and not otherwise,
+if and only if the condition specified is determinable, with reasonable effort
+by a "typical" Agoran, at the time the action is attempted.  In particular,
+attempts at paradox ("If this sentence is false, I do Y") were just considered
+unclear and do nothing, rather than actually creating a paradox.
 
-*added by G. 2022-06-15*
+P8925 attempted to codify this standard in R2518/1:
+>     A communication purporting to express conditional intent to
+>     perform an action is considered unclear and ambiguous unless, at a
+>     minimum, the conditional is determinate, true, and reasonably
+>     straightforward to evaluate with publicly-available information at
+>     the time of communication. The communicator SHOULD explain
+>     specific reasons for being uncertain of the outcome when e makes
+>     the communication.
+
+It is important to note the phrasing of "unclear and ambiguous unless, at a
+minimum". This implies both that the conditional should be presumed to be
+invalid unless the listed requirements can be affirmatively shown to be meant,
+and that it does not explicitly preclude other standards from being applied.
+
+*added by G. 2022-06-15* <br>
+*updated by Janet 2023-05-27* <br>
 
 # Tabled Actions
 
