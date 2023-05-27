@@ -19,7 +19,8 @@ by a "typical" Agoran, at the time the action is attempted.  In particular,
 attempts at paradox ("If this sentence is false, I do Y") were just considered
 unclear and do nothing, rather than actually creating a paradox.
 
-P8925 attempted to codify this standard in R2518/1:
+[P8925](https://www.mail-archive.com/agora-official@agoranomic.org/msg13104.html)
+attempted to codify this standard in R2518/1:
 >     A communication purporting to express conditional intent to
 >     perform an action is considered unclear and ambiguous unless, at a
 >     minimum, the conditional is determinate, true, and reasonably
