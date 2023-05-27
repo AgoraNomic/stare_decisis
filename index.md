@@ -68,3 +68,57 @@ remaining precedent is clear.
 CFJ3747 does not take an opinon on "explicitly", as that language did not exist at the time.
 
 *added by Janet 2023-02-02*
+
+# Consent
+
+Consent is governed by Rule 2519/2:
+>     A person is deemed to have consented to an action if and only if,
+>     at the time the action took place:
+>
+>     1. e, acting as emself, has publicly stated that e agrees to the
+>        action and not subsequently publicly withdrawn eir statement;
+>     2. e is party to a contract whose body explicitly and
+>         unambiguously indicates eir consent;
+>     3. the action is taken as part of a promise which e created; or
+>     4. it is reasonably clear from context that e wanted the action to
+>        take place or assented to it taking place.
+
+In [CFJ4013](http://faculty.washington.edu/kerim/nomic/cases/4013), Judge G.
+found that:
+* Silence never implies consent.
+* Uncertainty in evidence of consent implies that consent has not been given.
+* R2519 clause #1 does not allow for condiitonals.
+* R2519 clause #4 does allow for "reasonably clear" conditionals.
+* R2519 clause #4 includes the entire context of the purported consent
+  (including, at least, the entire message)
+
+## CFJ3583
+
+Under a previous iteration of the consent rule (R2519/0),
+[CFJ3583](http://faculty.washington.edu/kerim/nomic/cases/3583) also found that
+consent cannot be inferred from silence. CFJ3583 further found that consent
+must be inferred from a specific "instant of consent" that a reasonable Agoran
+would believe establishes consent. CFJ3583 explicitly excludes the possibility
+of a pattern of behavior establishing consent after the fact (and this
+requirement is now evident in Rule 2519/2, as consent is evaluated "at the time
+the action took place").
+
+Though CFJ3583 was decided under a previous rule, the core elements of Rule
+2519 that were used to determine it remain the same:
+> Rule 2519/0 (Power=3)
+> Consent
+>
+>       A person gives consent (syn. consents) to an action when e, acting as
+>       emself, publicly states that e agrees to the action. This agreement may
+>       be implied, but only if it is reasonably clear from context that the
+>       person wanted the agreement to take place.
+
+CFJ3583 was further decided under the following clauses in R869/40, which
+remain in R869/51 today:
+* "The Rules CANNOT otherwise bind a person to abide by any agreement without that person's willful consent."
+* "The Rules CANNOT compel non-players to act without their express or reasonably implied consent."
+
+Having not otherwise been explicitly overturned, CFJ3583 likely remains good
+law.
+
+*added by Janet 2023-05-27* <br>
